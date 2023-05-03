@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on understanding how firebrand transport in turbulent flows
+- 🔭 I’m currently working on firebrand transport in turbulent flows
 
 <!--
 **AntonioCervantes/AntonioCervantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

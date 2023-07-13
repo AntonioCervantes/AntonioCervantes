@@ -1,9 +1,14 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on firebrand transport in turbulent flows
+My name is Antonio Cervantes, I like engineering and science research. Here are some fun facts about me!
+- 🎓 I’m an M.S. Mechanical Engineering graduate from SJSU
+- 🔭 I will be starting my Ph.D. in Civil and Environmental Engineering at UC Irvine
+- 🔥 I'm interested in firebrand transport and wildfire research
+- 🌊 I'm passionate about fluid dynamics, CFD, and coding!
 
 <!--
 **AntonioCervantes/AntonioCervantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I am an SJSU Mechanical Engineering graduate with an interest in fluid dynamics and wildfire research. I will soon be starting my Ph.D. in Civil and Environmental Engineering at UC Irvine where I will be doing firebrand transport research.
 
 Here are some ideas to get you started:
 

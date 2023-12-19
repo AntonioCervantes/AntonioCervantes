@@ -2,8 +2,9 @@
 My name is Antonio Cervantes, I like engineering and science research. Here are some fun facts about me!
 - 🔭 I'm currently a Ph.D. student in Civil and Environmental Engineering at UC Irvine
 - 🎓 I got my B.S. and M.S. in Mechanical Engineering from SJSU
-- 🌳 I'm studying forest canopy turbulence and the effects of heterogeneity by gaps and clearings
-- 🔥 I'm interested in firebrand transport and wildfire research
+- 🔥 I'm studying atmospheric-forest canopy flows and its effect on wildfires
+- 🌳 I'm currently researching the dynamics of forest canopy heterogeneity by gaps and clearings
+- ❓ My research interests are in wildfires, particle transport, and turbulence
 - 🌊 I'm passionate about fluid dynamics, CFD, and coding!
 
 <!--
